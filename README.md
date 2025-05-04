@@ -2,7 +2,7 @@
 
 <div align= "center">
   <h4>Medical Insurance Cost Prediction using Random Forest Regressor.</h4><br>
-  <img src="https://github.com/ryanoneal0326/Medical-Cost-Prediction/blob/master/sampleImages/doc.gif">
+  <img src="https://github.com/ryanoneal0326/Medical_cost_pred/blob/master/sampleImages/doc.gif">
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -13,11 +13,11 @@ To predict things have been never so easy. I used to wonder how Insurance amount
  
 ## :hourglass: Some Screenshots
 
-![](https://github.com/ryanoneal0326/Medical-Cost-Prediction/blob/master/sampleImages/Cor.png)
+![](https://github.com/ryanoneal0326/MMedical_cost_pred/blob/master/sampleImages/Cor.png)
 
-![](https://github.com/ryanoneal0326/Medical-Cost-Prediction/blob/master/sampleImages/AgevsCharges.png)
+![](https://github.com/ryanoneal0326/Medical_cost_pred/blob/master/sampleImages/AgevsCharges.png)
 
-![](https://github.com/ryanoneal0326/Medical-Cost-Prediction/blob/master/sampleImages/deployments.png)
+![](https://github.com/ryanoneal0326/Medical_cost_pred/blob/master/sampleImages/deployments.png)
 
 ## :star: Features
 <ol>
@@ -49,4 +49,4 @@ The dataset used can be downloaded here (Kaggle) - [Click to Download](https://w
 Made with :heart:&nbsp;  by [Ryan Oneal](https://github.com/ryanoneal0326)
 
 ## :eyes: License
-MIT © [Ryan Oneal](https://github.com/ryanoneal0326/Medical-Cost-Prediction/blob/master/LICENSE)
+MIT © [Ryan Oneal](https://github.com/ryanoneal0326/Medical_cost_pred/blob/master/LICENSE)
